@@ -1,3 +1,6 @@
+@ Step-by-step implementation guide
+http://ngiriraj.com/work/paypal-connect-by-using-oauth-in-php-2/
+
 @ DEMO URL :
 http://ngiriraj.com/socialMedia/paypal_oauth/index.php
 
